@@ -4,7 +4,7 @@ Systems and Biomedical Engineering Senior Student at Cairo University. Intereste
 
 ## 📝 Resume
 
-<a href="https://drive.google.com/file/d/1NTKLYTZz_HQURrhyeSG2YXaNpSMqujvF/view?usp=sharing" type="application/pdf">
+<a href="https://drive.google.com/file/d/1aDMD_waWqeGWLbugYaPYkqb5OV-UJXYo/view?usp=sharing" type="application/pdf">
   <img src="assets/Mostafa_M_Abbas_Resume.png" alt="Mostafa Abbas | Resume" width="300">
 </a>
 
