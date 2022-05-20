@@ -22,8 +22,8 @@ Systems and Biomedical Engineering Senior Student at Cairo University. Intereste
 
 ## Web & Mobile App Technologies
 
-<code><img height="24" width="20" alt="NodeJS" src="assets/NodeJS.png"></code>
-<code><img height="24" width="20" alt="Flask" src="assets/Flask.png"></code>
+<code><img height="24" width="20" alt="NodeJS" src="assets/nodejs.png"></code>
+<code><img height="24" width="20" alt="Flask" src="assets/flask.png"></code>
 <code><img height="24" width="20" alt="ReactJS" src="https://assets-global.website-files.com/5d9bc5d562ffc2869b470941/5e1f8bd1dc3c511ea5a28a56_icon-rect-tech.png"></code>
 <code><img height="24" width="20" alt="flutter" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglnUsnfLyIofsJrCffEJFJiT688ztJEAJ_Q&usqp=CAU"></code>
 <code><img height="24" width="20" alt="CSS3" src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg"></code>
@@ -33,7 +33,7 @@ Systems and Biomedical Engineering Senior Student at Cairo University. Intereste
 
 <code><img height="24" width="20" alt="MySQL" src="https://i.imgur.com/2bScz0p.png"></code>
 <code><img height="24" width="20" alt="PostgreSQL" src="assets/postgresql.png"></code>
-<code><img height="24" width="20" alt="MongoDB" src="assets/MongoDB.png"></code>
+<code><img height="24" width="20" alt="MongoDB" src="assets/mongodb.png"></code>
 <code><img height="24" width="20" alt="SQLite" src="assets/sqlite.png"></code>
 
 ## MISC
