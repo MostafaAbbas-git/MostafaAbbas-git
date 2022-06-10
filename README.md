@@ -10,7 +10,7 @@ Systems and Biomedical Engineering Senior Student at Cairo University. Intereste
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbbas-git&exclude_repo=Iot-Website,SW_for_HW_Interfacing,DSP-Team17&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbbas-git&exclude_repo=Iot-Website,cncServer,SW_for_HW_Interfacing,DSP-Team17&hide=html&layout=compact&theme=react&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 
