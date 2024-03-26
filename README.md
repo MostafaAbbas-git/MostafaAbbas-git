@@ -4,7 +4,7 @@ Systems and Biomedical Engineering Fresh Graduate from Cairo University. Interes
 
 ## 📝 Resume
 
-<a href="https://drive.google.com/file/d/1cta1BWGTlJocA7PHwd9Rj2MTsL0lwhyp/view?usp=sharing" type="application/pdf">
+<a href="https://drive.google.com/file/d/1BfNI16MEyUxkltB4o6Cf3JKEC9YmhKm2/view" type="application/pdf">
   <img src="assets/M.Abbas_Latest_Resume.png" alt="Mostafa Abbas | Resume" width="300">
 </a>
 
